@@ -1,0 +1,16 @@
+﻿Branch_ID,Branch_Name,City,State,Region,Branch_Type,Opening_Year
+BR001,Central Mumbai,Mumbai,Maharashtra,West,Urban,2011
+BR002,Pune Main,Pune,Maharashtra,West,Not Available,2008
+BR003,Nagpur City,Nagpur,Maharashtra,West,Not Available,2006
+BR004,Nashik Road,Nashik,Maharashtra,West,Urban,2013
+BR005,Delhi Central,New Delhi,Delhi,North,Not Available,2018
+BR006,Gurgaon Hub,Gurgaon,Haryana,North,Urban,2005
+BR007,Jaipur Main,Jaipur,Rajasthan,North,Urban,2017
+BR008,Ahmedabad Central,Ahmedabad,Gujarat,West,Urban,2017
+BR009,Bengaluru Tech,Bengaluru,Karnataka,South,Metro,2009
+BR010,Chennai Main,Chennai,Tamil Nadu,South,Not Available,2014
+BR011,Hyderabad Central,Hyderabad,Telangana,South,Not Available,2007
+BR012,Kochi Main,Kochi,Kerala,South,Not Available,2016
+BR013,Kolkata Central,Kolkata,West Bengal,East,Urban,2015
+BR014,Bhubaneswar Main,Bhubaneswar,Odisha,East,Not Available,2010
+BR015,Patna City,Patna,Bihar,East,Not Available,2006

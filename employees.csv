@@ -1,0 +1,121 @@
+﻿Employee_ID,Employee_Name,Branch_ID,Role,Joining_Date.1,Employment_Status
+E00001,Aditya Kulkarni,BR014,Not Available,09-04-2023,Active
+E00002,Rohan Shaikh,BR005,Relationship Manager,02-04-2020,Active
+E00003,Priya Verma,BR011,Loan Officer,30-07-2019,Active
+E00004,Aditya Nair,BR004,Teller,16-03-2022,Active
+E00005,Sneha Shaikh,BR014,Teller,13-06-2019,Active
+E00006,Riya Iyer,BR003,Teller,03-05-2020,Active
+E00007,Priya Patil,BR009,Loan Officer,25-06-2023,Active
+E00008,Amit Nair,BR001,Loan Officer,18-04-2025,Inactive
+E00009,Rahul Das,BR003,Branch Manager,26-09-2024,Active
+E00010,Priya Joshi,BR002,Relationship Manager,21-12-2025,Active
+E00011,Sahil Shaikh,BR006,Loan Officer,07-06-2025,Active
+E00012,Priya Mehta,BR001,Teller,12-10-2024,Active
+E00013,Amit Kulkarni,BR003,Operations Executive,26-12-2020,Active
+E00014,Amit Gupta,BR006,Branch Manager,25-04-2025,Active
+E00015,Priya Patil,BR015,Teller,13-05-2021,Active
+E00016,Ananya Reddy,BR003,Branch Manager,22-07-2024,Active
+E00017,Aditya Verma,BR010,Loan Officer,22-04-2019,Inactive
+E00018,Rahul Shaikh,BR012,Teller,15-11-2021,Active
+E00019,Neha Verma,BR004,Branch Manager,18-05-2018,Inactive
+E00020,Sneha Deshmukh,BR013,Relationship Manager,24-11-2023,Active
+E00021,Vikram Mehta,BR011,Teller,27-10-2025,Active
+E00022,Rohan Reddy,BR011,Loan Officer,24-06-2025,Inactive
+E00023,Simran Joshi,BR004,Not Available,22-08-2023,Active
+E00024,Arjun Khan,BR010,Loan Officer,20-06-2018,Active
+E00025,Priya Kulkarni,BR008,Not Available,20-11-2020,Active
+E00026,Isha Kulkarni,BR007,Relationship Manager,04-02-2018,Active
+E00027,Vivaan Nair,BR007,Loan Officer,01-07-2024,Active
+E00028,Simran Singh,BR012,Branch Manager,25-09-2023,Active
+E00029,Aarav Das,BR013,Relationship Manager,18-10-2019,Active
+E00030,Nisha Khan,BR004,Loan Officer,10-02-2023,Active
+E00031,Ananya Gupta,BR002,Operations Executive,16-11-2020,Active
+E00032,Ananya Deshmukh,BR001,Teller,26-05-2022,Active
+E00033,Sneha Patil,BR004,Teller,19-12-2021,Active
+E00034,Karan Verma,BR001,Teller,19-09-2021,Active
+E00035,Karan Singh,BR012,Operations Executive,22-03-2022,Active
+E00036,Aditya Das,BR005,Teller,10-08-2020,Active
+E00037,Rahul Das,BR012,Branch Manager,29-10-2019,Active
+E00038,Rohan Gupta,BR002,Relationship Manager,16-11-2019,Active
+E00039,Riya Shaikh,BR005,Teller,11-01-2022,Active
+E00040,Simran Kulkarni,BR008,Not Available,17-04-2020,Active
+E00041,Amit Nair,BR006,Operations Executive,28-09-2018,Inactive
+E00042,Ananya Mehta,BR011,Relationship Manager,27-01-2023,Active
+E00043,Amit Deshmukh,BR008,Relationship Manager,24-05-2023,Active
+E00044,Aditya Patil,BR007,Branch Manager,11-07-2023,Active
+E00045,Isha Sharma,BR009,Relationship Manager,17-06-2025,Active
+E00046,Sneha Patil,BR003,Not Available,05-10-2021,Active
+E00047,Sneha Joshi,BR013,Loan Officer,05-04-2018,Active
+E00048,Aarav Shaikh,BR004,Loan Officer,23-04-2018,Active
+E00049,Vivaan Singh,BR010,Operations Executive,06-07-2020,Active
+E00050,Amit Joshi,BR007,Branch Manager,13-04-2020,Active
+E00051,Aarav Nair,BR011,Branch Manager,12-11-2024,Active
+E00052,Sahil Deshmukh,BR007,Operations Executive,21-03-2019,Inactive
+E00053,Neha Singh,BR005,Operations Executive,20-01-2024,Active
+E00054,Amit Gupta,BR015,Teller,12-10-2024,Active
+E00055,Sneha Mehta,BR013,Relationship Manager,04-01-2020,Active
+E00056,Aditya Verma,BR004,Teller,21-02-2021,Active
+E00057,Rohan Gupta,BR010,Operations Executive,18-11-2020,Active
+E00058,Priya Iyer,BR009,Branch Manager,12-01-2024,Active
+E00059,Riya Mehta,BR004,Loan Officer,02-09-2024,Active
+E00060,Rahul Shaikh,BR010,Loan Officer,31-08-2022,Active
+E00061,Priya Sharma,BR014,Operations Executive,27-10-2024,Active
+E00062,Isha Patil,BR001,Operations Executive,24-10-2025,Active
+E00063,Aditya Deshmukh,BR007,Relationship Manager,20-11-2018,Active
+E00064,Kavya Khan,BR010,Relationship Manager,24-01-2021,Active
+E00065,Nisha Reddy,BR010,Relationship Manager,12-12-2018,Active
+E00066,Priya Gupta,BR010,Operations Executive,03-12-2021,Active
+E00067,Rahul Patil,BR008,Loan Officer,01-06-2019,Active
+E00068,Isha Mehta,BR007,Loan Officer,16-11-2020,Active
+E00069,Nisha Verma,BR009,Operations Executive,11-10-2019,Active
+E00070,Karan Iyer,BR006,Teller,17-12-2022,Active
+E00071,Sahil Das,BR014,Loan Officer,15-07-2021,Active
+E00072,Isha Sharma,BR009,Teller,14-11-2021,Active
+E00073,Riya Das,BR003,Loan Officer,12-10-2018,Inactive
+E00074,Arjun Iyer,BR003,Branch Manager,16-07-2024,Active
+E00075,Priya Verma,BR005,Branch Manager,05-03-2024,Active
+E00076,Amit Sharma,BR010,Loan Officer,07-01-2019,Active
+E00077,Sneha Verma,BR006,Operations Executive,15-02-2019,Active
+E00078,Vikram Iyer,BR014,Loan Officer,28-05-2018,Active
+E00079,Arjun Das,BR001,Branch Manager,09-02-2021,Active
+E00080,Simran Joshi,BR014,Teller,19-11-2021,Active
+E00081,Riya Joshi,BR006,Relationship Manager,18-06-2024,Active
+E00082,Aditya Verma,BR001,Not Available,02-02-2022,Active
+E00083,Arjun Reddy,BR007,Teller,21-06-2022,Active
+E00084,Amit Nair,BR012,Relationship Manager,03-08-2024,Active
+E00085,Priya Shaikh,BR011,Relationship Manager,10-08-2025,Active
+E00086,Riya Nair,BR007,Relationship Manager,19-11-2019,Active
+E00087,Ananya Mehta,BR015,Relationship Manager,20-02-2022,Active
+E00088,Riya Reddy,BR005,Relationship Manager,12-08-2019,Active
+E00089,Aarav Das,BR003,Loan Officer,22-06-2024,Active
+E00090,Vikram Verma,BR010,Operations Executive,07-01-2022,Inactive
+E00091,Riya Nair,BR015,Loan Officer,13-06-2023,Active
+E00092,Simran Singh,BR013,Teller,21-12-2025,Active
+E00093,Aarav Singh,BR007,Teller,24-05-2020,Active
+E00094,Amit Das,BR010,Operations Executive,04-02-2019,Active
+E00095,Vivaan Iyer,BR014,Relationship Manager,29-03-2021,Active
+E00096,Priya Deshmukh,BR010,Relationship Manager,20-08-2021,Active
+E00097,Nisha Nair,BR010,Not Available,15-08-2019,Active
+E00098,Isha Joshi,BR012,Relationship Manager,03-02-2025,Active
+E00099,Kavya Patil,BR014,Teller,18-04-2019,Active
+E00100,Sahil Patil,BR004,Loan Officer,24-05-2019,Active
+E00101,Isha Sharma,BR004,Operations Executive,11-02-2022,Active
+E00102,Nisha Nair,BR015,Teller,04-05-2021,Active
+E00103,Sahil Deshmukh,BR006,Teller,11-05-2024,Active
+E00104,Ananya Khan,BR010,Loan Officer,14-03-2020,Active
+E00105,Rohan Verma,BR015,Not Available,19-05-2018,Active
+E00106,Kavya Verma,BR003,Teller,03-04-2022,Active
+E00107,Aarav Joshi,BR015,Relationship Manager,17-03-2018,Active
+E00108,Priya Kulkarni,BR002,Relationship Manager,03-11-2022,Active
+E00109,Aditya Reddy,BR003,Operations Executive,27-09-2025,Active
+E00110,Kavya Khan,BR012,Loan Officer,29-09-2023,Active
+E00111,Rohan Khan,BR013,Teller,28-02-2025,Active
+E00112,Priya Verma,BR004,Teller,01-01-2024,Active
+E00113,Sneha Shaikh,BR010,Loan Officer,28-06-2018,Active
+E00114,Sahil Das,BR015,Operations Executive,04-11-2018,Active
+E00115,Rahul Reddy,BR006,Operations Executive,27-04-2024,Active
+E00116,Nisha Iyer,BR011,Operations Executive,02-09-2020,Active
+E00117,Rahul Sharma,BR014,Operations Executive,26-05-2022,Active
+E00118,Amit Nair,BR015,Operations Executive,01-08-2021,Inactive
+E00119,Isha Mehta,BR004,Operations Executive,26-11-2021,Active
+E00120,Sneha Joshi,BR007,Operations Executive,18-04-2023,Active
